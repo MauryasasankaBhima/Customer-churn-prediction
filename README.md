@@ -1,0 +1,1 @@
+Churn Prediction Analysis. The goal of this analysis is to predict customer churn using machine learning classifiers, including a stacked ensemble model, and evaluate their performance based on accuracy, precision, recall, and F1 score The dataset includes both categorical and numerical variables from cell phone usage data, with TARGET as the dependent variable indicating churn
